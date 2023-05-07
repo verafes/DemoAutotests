@@ -1,0 +1,13 @@
+# cache
+__pycache__
+*.pyc
+
+# static, media
+static
+media
+
+# other
+../.idea/
+.idea
+.idea/
+/env/
